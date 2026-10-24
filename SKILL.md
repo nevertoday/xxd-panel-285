@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-285
-description: "Create XXD Panel 285 raster artwork: a faithful photograph paired with one philatelic commemorative mark, a bold silhouette, halftone and museum-archive ink. Accepts one image or a directory batch and supports top-bottom, left-right, design-only and four-device wallpaper outputs; multiple ratios or exact sizes; prompt-generated, user-exact or text-free typography. Use whenever the user invokes xxd-panel-285 or asks for this 科学纪念章 style."
+description: "XXD Panel 285｜Science Commemorative: keeps the photo and prints its subject as one small commemorative stamp-like emblem — a bold, simplified silhouette with hard-edged spot-colour separation, a few engraving-inspired lines and halftone dots, gathered in a compact core with an optional circular edge, shield, orbit line, star arc or geometric border — in vintage offset and screen-print ink on paper with slight misregistration, in a bright, dignified palette of deep blue, cosmic blue, warm red, orange-yellow, cream, ink black and teal, small in whitespace with a very short museum-style catalogue number or archive mark in compact institutional sans-serif. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-285 or asks for a vintage commemorative stamp, scientific medal emblem or halftone philatelic logo from a photo."
 ---
 
 # XXD Panel 285

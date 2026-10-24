@@ -1,0 +1,84 @@
+{
+  "skill_description": "XXD Panel 285｜Science Commemorative: keeps the photo and prints its subject as one small commemorative stamp-like emblem — a bold, simplified silhouette with hard-edged spot-colour separation, a few engraving-inspired lines and halftone dots, gathered in a compact core with an optional circular edge, shield, orbit line, star arc or geometric border — in vintage offset and screen-print ink on paper with slight misregistration, in a bright, dignified palette of deep blue, cosmic blue, warm red, orange-yellow, cream, ink black and teal, small in whitespace with a very short museum-style catalogue number or archive mark in compact institutional sans-serif. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-285 or asks for a vintage commemorative stamp, scientific medal emblem or halftone philatelic logo from a photo.",
+  "short_description": "科学纪念章：把照片主体印成一枚粗轮廓、带网点油墨的邮票式纪念章",
+  "zh-CN": {
+    "name": "科学纪念章",
+    "tagline": "把照片主体印成一枚粗轮廓、带网点油墨的邮票式科学纪念章。",
+    "look": "原照片保留；主体被概括成粗壮的简化剪影，用硬边专色分开，只加几道刻线和印刷网点，集中在一小块核心区域，可配圆形边界、盾形、轨道线、星体弧线或几何边框。质感是旧胶印和丝网油墨印在纸上，带油墨颗粒、轻微套色误差和不均匀的印刷感，像旧邮票、航空档案或博物馆藏品图形。颜色鲜明而庄重：深蓝、宇宙蓝、暖红、橙黄、米白、墨黑、青绿。纪念章小、留白大，旁边是一个极短的编号或档案标记，字体紧凑理性。",
+    "traits": ["邮票式纪念章", "网点油墨", "粗轮廓", "博物馆档案", "复古印刷"],
+    "good": [
+      "剪影粗壮、一眼可记住的主体：一架飞机、一头大象、一座穹顶、一枚火箭",
+      "科学、交通、自然类照片：天文台、蒸汽火车、一只鲸、一座火山",
+      "想做成纪念邮票、博物馆周边或活动纪念章的照片"
+    ],
+    "poor": [
+      "纤细、靠柔和过渡取胜的照片：薄雾、婚纱细节、柔光人像",
+      "需要保留完整场景或多人关系的照片",
+      "想要现代商业 Logo、霓虹光效、3D 或旅游纪念品式设计的需求"
+    ]
+  },
+  "en": {
+    "name": "Science Commemorative",
+    "tagline": "Prints the subject of your photo as one bold-outlined, halftone-inked commemorative stamp.",
+    "look": "Your photo stays; the subject is reduced to a bold, simplified silhouette split into hard-edged spot colours, with just a few engraved lines and halftone dots, gathered in a small core that may carry a circular edge, shield, orbit line, star arc or geometric border. It looks like vintage offset and screen-print ink on paper, with ink grain, slight misregistration and uneven printing, like an old stamp, an aviation record or a museum graphic. Colours are bright and dignified: deep blue, cosmic blue, warm red, orange-yellow, cream, ink black and teal. The medal is small in whitespace, with one very short catalogue number or archive mark in a compact, rational typeface.",
+    "traits": ["Stamp-style medal", "Halftone ink", "Bold outline", "Museum archive", "Vintage print"],
+    "good": [
+      "Subjects with a bold, memorable silhouette: an aeroplane, an elephant, a dome, a rocket",
+      "Science, transport and nature photos: an observatory, a steam train, a whale, a volcano",
+      "Photos you want as a commemorative stamp, museum merchandise or an event medal"
+    ],
+    "poor": [
+      "Delicate photos that rely on soft transitions: mist, bridal lace, soft-light portraits",
+      "Photos that need a full scene or several people",
+      "Requests for a modern commercial logo, neon glow, 3D or souvenir-shop design"
+    ]
+  },
+  "ja": {
+    "name": "科学記念章",
+    "tagline": "写真の主役を、太い輪郭と網点インクの切手のような科学記念章に刷り上げます。",
+    "look": "元の写真は残し、主役は太く簡略化したシルエットにまとめ、硬いエッジの特色で塗り分け、数本の彫り線と網点だけを加えます。それを小さな中心部に集め、円の縁、盾、軌道線、星の弧、幾何学の枠を添えることもあります。質感は紙に刷った古いオフセットやシルクスクリーンのインクで、インクの粒、軽い版ずれ、むらのある刷りがあり、古い切手、航空の記録、博物館の収蔵図版のようです。色は鮮やかで重厚な深い青、宇宙の青、暖かな赤、橙黄、生成り、墨黒、ティールです。記念章は小さく余白は大きく、ごく短い番号や記録マークがコンパクトで理知的な書体で添えられます。",
+    "traits": ["切手風の記念章", "網点インク", "太い輪郭", "博物館アーカイブ", "レトロ印刷"],
+    "good": [
+      "太く覚えやすいシルエットの主役：飛行機、象、ドーム、ロケット",
+      "科学、乗り物、自然の写真：天文台、蒸気機関車、クジラ、火山",
+      "記念切手、博物館グッズ、イベントの記念章にしたい写真"
+    ],
+    "poor": [
+      "繊細でやわらかな階調が魅力の写真：霧、ウェディングドレスのレース、ソフトな光の人物",
+      "場面全体や複数の人の関係を残したい写真",
+      "現代的な商業ロゴ、ネオンの光、3D、観光みやげ風のデザインを求める場合"
+    ]
+  },
+  "ko": {
+    "name": "과학 기념장",
+    "tagline": "사진 속 주인공을 굵은 윤곽과 망점 잉크의 우표 같은 과학 기념장으로 찍어 냅니다.",
+    "look": "원본 사진은 남기고, 주인공을 굵고 단순한 실루엣으로 줄여 각진 별색으로 나누고, 조각 선 몇 줄과 망점만 더합니다. 이를 작은 중심부에 모으고 원형 테두리, 방패, 궤도선, 별의 호, 기하학 테두리를 곁들이기도 합니다. 질감은 종이에 찍은 옛 오프셋과 실크스크린 잉크라 잉크 입자, 살짝 어긋난 판, 고르지 않은 인쇄감이 있어 옛 우표, 항공 기록, 박물관 소장 도판 같습니다. 색은 선명하고 묵직한 짙은 파랑, 우주색 파랑, 따뜻한 빨강, 주황빛 노랑, 미색, 먹색, 청록입니다. 기념장은 작고 여백은 넓으며, 아주 짧은 번호나 기록 표시가 간결하고 이성적인 서체로 붙습니다.",
+    "traits": ["우표식 기념장", "망점 잉크", "굵은 윤곽", "박물관 아카이브", "레트로 인쇄"],
+    "good": [
+      "굵고 기억하기 쉬운 실루엣의 주인공: 비행기, 코끼리, 돔, 로켓",
+      "과학, 교통, 자연 사진: 천문대, 증기기관차, 고래, 화산",
+      "기념우표, 박물관 굿즈, 행사 기념장으로 쓰고 싶은 사진"
+    ],
+    "poor": [
+      "섬세하고 부드러운 계조가 매력인 사진: 안개, 웨딩드레스 레이스, 부드러운 빛의 인물",
+      "전체 장면이나 여러 사람의 관계를 남겨야 하는 사진",
+      "현대적인 상업 로고, 네온 빛, 3D, 관광 기념품식 디자인을 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "الوسام العلمي التذكاري",
+    "tagline": "يطبع العنصر الرئيسي في صورتك وساماً تذكارياً يشبه الطابع، بخط خارجي عريض وحبر منقّط.",
+    "look": "تبقى صورتك، ويُختزل العنصر في ظل عريض مبسّط يُفصل بألوان خاصة حادة الحواف، مع بضعة خطوط محفورة ونقاط طباعة شبكية فقط، ويتجمع في نواة صغيرة قد تحيط بها حافة دائرية أو درع أو خط مدار أو قوس نجمي أو إطار هندسي. يبدو كحبر أوفست وطباعة حريرية قديمة على الورق، بحبيبات حبر وانزياح خفيف في التسجيل وطباعة غير متساوية، كطابع قديم أو سجل طيران أو رسم في متحف. الألوان زاهية ورصينة: أزرق داكن وأزرق كوني وأحمر دافئ وأصفر برتقالي وكريمي وأسود حبري وأزرق مخضر. الوسام صغير وسط الفراغ، ومعه رقم فهرسة قصير جداً أو علامة أرشيفية بخط مضغوط عقلاني.",
+    "traits": ["وسام بطابع البريد", "حبر منقّط", "خط خارجي عريض", "أرشيف متحفي", "طباعة قديمة"],
+    "good": [
+      "عناصر بظل عريض لا يُنسى: طائرة، فيل، قبة، صاروخ",
+      "صور العلوم والنقل والطبيعة: مرصد، قطار بخاري، حوت، بركان",
+      "صور تريدها طابعاً تذكارياً أو تذكاراً لمتحف أو وساماً لمناسبة"
+    ],
+    "poor": [
+      "صور رقيقة تعتمد على التدرجات الناعمة: الضباب، دانتيل فساتين الزفاف، الصور الشخصية بإضاءة ناعمة",
+      "صور تحتاج المشهد كاملاً أو عدة أشخاص",
+      "طلب شعار تجاري حديث أو توهج نيون أو مظهر ثلاثي الأبعاد أو تصميم هدايا سياحية"
+    ]
+  }
+}
